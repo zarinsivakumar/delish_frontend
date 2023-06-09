@@ -1,0 +1,41 @@
+.topnav {
+    overflow: visible;
+    background-color: #333;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    z-index: 99;
+}
+
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+
+.topnav a.icon {
+    background: black;
+    display: block;
+    justify-self: end;
+    position: absolute;
+    padding: 9px;
+    right: 0;
+    top: 0;
+    
+}
+
+.logo {
+    width: 50%;
+    margin-left: 106px;
+    margin-bottom: 17px;
+    margin-top: 0px;
+
+}
+
+.myLinks{
+    position: ab;
+}
+
+
