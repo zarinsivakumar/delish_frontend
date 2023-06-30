@@ -1,0 +1,59 @@
+.logintitle {
+    text-align: center;
+    font-family: 'Roboto';    
+}
+
+.login {
+    margin-top: 15px;
+    background-color: rgb(167, 179, 158);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    background-color: rgb(117, 117, 117);
+}
+
+.main {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    background-color: rgb(168, 222, 233);
+}
+
+.search {
+    border-radius: 0.3rem;
+}
+
+.font {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.a {
+    color: rgb(168, 222, 233);
+}
+
+.title {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.location {
+    color: rgb(117, 117, 117);
+    border-top: 5px solid #4196ca;
+    text-align: center;
+}
+
+.posts {
+    background-color: rgb(167, 179, 158);
+    padding-bottom: 200px;
+
+  
+}
