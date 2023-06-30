@@ -1,0 +1,25 @@
+.title {
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+.text {
+    font-family: 'Roboto';
+    text-align: center;
+    font-weight: bold;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.AboutUs {
+
+    position: fixed;
+    height: 100%;
+    background-color: rgb(167, 179, 158);
+
+}
